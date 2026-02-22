@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+Werkzeug
+scikit-learn
+joblib
+tensorflow
+mne
+scipy
+numpy
