@@ -8,3 +8,4 @@ tensorflow
 mne
 scipy
 numpy
+gunicorn
