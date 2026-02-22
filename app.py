@@ -7,7 +7,7 @@ from sqlalchemy.engine import Engine
 
 # Create Flask app
 app = Flask(__name__)
-CORS(app, supports_credentials=True, origins=["http://localhost:5173"])
+CORS(app, supports_credentials=True, origins=["http://localhost:5173","https://mdd-frontendd.vercel.app/"])
 
 # Absolute DB path
 basedir = os.path.abspath(os.path.dirname(__file__))
